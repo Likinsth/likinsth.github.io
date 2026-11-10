@@ -1,0 +1,5 @@
+# Berkas app-ads.txt untuk Calcnote Scale
+# Syarat wajib verifikasi kepemilikan penayang iklan AdMob di Google Play Store
+# Unggah berkas ini ke direktori root domain situs web pengembang Anda, misal: https://domainanda.com/app-ads.txt
+
+google.com, pub-8657851876485011, DIRECT, f08c47fec0942fa0
